@@ -1,0 +1,9 @@
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/mta_gui.dir
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/mta_gui_autogen_timestamp_deps.dir
+C:/Users/Kye18/Documents/QTProjects/mta_gui/mta_gui/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/mta_gui_autogen.dir
